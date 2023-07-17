@@ -166,7 +166,7 @@ This is a roadmap outlining the suggested learning path for Django development, 
 
 
 ## Courses 
-1. **Django ORM**- [Django ORM ↗](https://www.udemy.com/course/django-4-orm-mastery/)
+1. **Django ORM**- [Django ORM ↗](https://www.udemy.com/course/django-4x-orm-mastery/)
 2. **Django Core**- [Django Core ↗](https://www.udemy.com/course/django-core/)
 
 
