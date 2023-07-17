@@ -10,7 +10,7 @@ This is a roadmap outlining the suggested learning path for Django development, 
 # Beginner Level
 
 - [ ] Models & Query set
-- [ ] Views & Miins
+- [ ] Views & Mixins
 - [ ] Forms & Form-set
 - [ ] Templates & Filters
 - [ ] Authentication
