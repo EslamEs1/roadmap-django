@@ -69,7 +69,7 @@ This is a roadmap outlining the suggested learning path for Django development, 
  - [ ] Environment Variables and .env Files
  - [ ] Logs, and Logging (For eample, Sentry)
 
-## Part 4 - Security, Deployment, and Package Ecosystem
+## Part 4 - Essential Web Development and API Tools
  - [ ] HTML, CSS, SASS, JavaScript, Bootstrap
  - [ ] REST API
  - [ ] Swagger
@@ -77,7 +77,7 @@ This is a roadmap outlining the suggested learning path for Django development, 
  - [ ] GraphQL
  - [ ] Browser Development Tools (Elements Tab, Console, Network Tab, Performance)
 
-## Part 4 (Security, Deployment, and Package Ecosystem):
+## Part 4 Security, Deployment, and Package Ecosystem
  - [ ] Security (SS, SQL Injection, CSRF, CORS, etc.)
  - [ ] Symmetric Encryption and Asymmetric Encryption
  - [ ] SSH
