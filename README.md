@@ -153,7 +153,7 @@ This is a roadmap outlining the suggested learning path for Django development, 
 - [ ] Linu cron jobs
 - [ ] AWS Basics (S3, EC2, Networks)
 - [ ] Gunicorn
-- [ ] Ngin
+- [ ] Nginx
 - [ ] Microservices
 - [ ] Hosting (PAAS, SAAS, IAAS)
 - [ ] System Design
