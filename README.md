@@ -47,7 +47,7 @@ This is a roadmap outlining the suggested learning path for Django development, 
  - [ ] Analysis
  - [ ] RDB (PostgreSQL, MySQL/MariaDB, SQLite)
  - [ ] NoSQL (MongoDB, Redis)
- - [ ] ORM (Object-Relational Mapper) - [ORM ↗](https://www.udemy.com/course/django-4-orm-mastery/)
+ - [ ] ORM (Object-Relational Mapper) - [ORM ↗](https://www.udemy.com/course/django-4x-orm-mastery/)
 
 ## Part 2 - Software Engineering Best Practices
  - [ ] Conventional Commits
