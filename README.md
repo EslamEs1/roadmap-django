@@ -1,7 +1,7 @@
 Django Learning Roadmap
 [![Account: LinkedIn](https://img.shields.io/badge/Eslam%20Essam-LinkedIn-0077b5)](https://www.linkedin.com/in/eslames/)
 [![Account: Facebook](https://img.shields.io/badge/Eslam%20Essam-Facebook-3B5998)](https://www.facebook.com/EslamEss11)
-[![Account: Twitter](https://img.shields.io/badge/Eslam%20Essam-Twitter-0084b4)](https://twitter.com/Eslamemad)
+[![Account: Twitter](https://img.shields.io/badge/Eslam%20Essam-Twitter-0084b4)](https://twitter.com/Es1Essam)
 [![Account: GitHub](https://img.shields.io/badge/Eslam%20Essam-GitHub-2b3137)](https://github.com/EslamEs1)
 
 
