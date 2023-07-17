@@ -18,7 +18,7 @@ This is a roadmap outlining the suggested learning path for Django development, 
 - [ ] VCS (Version Control System): Git and GitHub
 - [ ] IDE/Tet Editor: PyCharm Pro or VS Code
 - [ ] Networks Basics
-- [ ] Linu
+- [ ] Linux
 - [ ] Using The Terminal/CMD/PowerShell
 
 # Intermediate Level (Mid-Level)
@@ -30,10 +30,10 @@ This is a roadmap outlining the suggested learning path for Django development, 
     - [ ] Code With Mosh - Ultimate Django Series
     - [ ] Documentation
     - [ ] very academy
- - [ ] Components [Customization]
- - [ ] Models [Instance Methods - models vs views - Transaction]
- - [ ] Views [Customize miins]
- - [ ] Templates [Customize filters & tags]
+ - [ ] Components 
+ - [ ] Models
+ - [ ] Views
+ - [ ] Templates
  - [ ] Translation
  - [ ] Payment
  - [ ] Channels
