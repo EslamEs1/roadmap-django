@@ -30,7 +30,6 @@ This is a roadmap outlining the suggested learning path for Django development, 
     - [ ] Code With Mosh - Ultimate Django Series
     - [ ] Documentation
     - [ ] very academy
- - [ ] Components 
  - [ ] Models
  - [ ] Views
  - [ ] Templates
